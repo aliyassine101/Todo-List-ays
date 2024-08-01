@@ -334,7 +334,7 @@ ul{
     transition: transform .2s;
     position: relative;
     top: 39px;
-    left: -1%;
+    left: 0%;
     font-size: x-small;
 }
 
@@ -379,7 +379,7 @@ ul{
     border-color: #81979b;
     transition: transform .2s;
     position: relative;
-    left: -4%;
+    left: 0%;
     top: 20px;
     font-size: 63%;
 }
