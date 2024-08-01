@@ -303,7 +303,7 @@ ul{
     height: 24.5px;
     text-indent: 5px;
     position: relative;
-    top: 60px;
+    top: 17px;
     width:30%;
     font-size: large;
     left: -30%;
@@ -312,7 +312,7 @@ ul{
 
 .input {
     height: 30px;
-    width: 22%; 
+    width: 45%; 
     font-size: x-large;
     border-radius: 10px;
     border-width: 3px;
@@ -380,7 +380,7 @@ ul{
     transition: transform .2s;
     position: relative;
     left: 0%;
-    top: 10px;
+    top: 20px;
     font-size: 63%;
 }
 ul li .delete {
