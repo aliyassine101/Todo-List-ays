@@ -236,7 +236,7 @@ ul{
 .search {
     border-radius: 10px;
     border-width: 3px;
-    border-color: black;
+    border-color: rgb(0, 0, 0);
     position: relative;
     bottom: 5px;
     height: 25px;
@@ -312,7 +312,7 @@ ul{
 
 .input {
     height: 30px;
-    width: 48%; 
+    width: 22%; 
     font-size: x-large;
     border-radius: 10px;
     border-width: 3px;
