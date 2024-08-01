@@ -380,7 +380,7 @@ ul{
     transition: transform .2s;
     position: relative;
     left: -4%;
-    top: gi20px;
+    top: 20px;
     font-size: 63%;
 }
 ul li .delete {
